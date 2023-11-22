@@ -76,6 +76,7 @@ The HomeScreen is the primary screen, rendering the Card component for users to 
 
 MatchScreen displays when there's a match with a high percentage, showing detailed information about the matched individual.
 
+![Maching Screen](https://res.cloudinary.com/dqhyudo4x/image/upload/v1700657925/Screenshot_2023-11-22-15-44-43-44_f73b71075b1de7323614b647fe394240_qwqpfu.jpg)
 ---
 
 ## Styles
