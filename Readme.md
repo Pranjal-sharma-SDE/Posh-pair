@@ -70,6 +70,7 @@ The App component serves as the entry point and includes the navigation setup, r
 ### HomeScreen
 
 The HomeScreen is the primary screen, rendering the Card component for users to swipe through cards.
+![ Home Screen](https://res.cloudinary.com/dqhyudo4x/image/upload/v1700657925/Screenshot_2023-11-22-15-44-12-77_f73b71075b1de7323614b647fe394240_hqwpjd.jpg)
 
 ### MatchScreen
 
