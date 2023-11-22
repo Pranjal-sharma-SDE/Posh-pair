@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # PoshPair - Dating App
 
 ![PoshPair Logo](https://res.cloudinary.com/dqhyudo4x/image/upload/v1700645885/bk6toxqapde9pzxwmzmi.jpg)
@@ -63,7 +63,7 @@ The Card component renders swipable cards using the `react-tinder-card` library.
 
 The App component serves as the entry point and includes the navigation setup, rendering the `AppNavigator` component.
 
----
+
 
 ## Screens
 
