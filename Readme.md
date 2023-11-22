@@ -1,6 +1,6 @@
 # PoshPair - Tinder Card App
 
-![PoshPair Logo](path/to/your/logo.png)
+![PoshPair Logo](https://res.cloudinary.com/dqhyudo4x/image/upload/v1700645885/bk6toxqapde9pzxwmzmi.jpg)
 
 This is a Tinder-like card-swiping app built using React Native and Expo. It allows users to swipe through a deck of cards representing different individuals and match with those who meet certain criteria.
 
@@ -82,6 +82,7 @@ The App component is the entry point of the application. It includes the navigat
 ##Screens
 HomeScreen
 The HomeScreen is the main screen of the app. It renders the Card component, allowing users to swipe through the cards.
+![PoshPair Logo]()
 
 ##MatchScreen
 The MatchScreen is displayed when there is a match with a high match percentage. It shows detailed information about the matched individual.
