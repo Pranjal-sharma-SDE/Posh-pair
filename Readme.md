@@ -20,15 +20,10 @@ To run the app locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/
-/poshpair.git
+https://github.com/Pranjal-sharma-SDE/poshpair.git
+   ```
 
 
-Certainly! Here's the content in Markdown format:
-
-markdown
-Copy code
-# PoshPair - Tinder Card App
 
 
 This is a Tinder-like card-swiping app built using React Native and Expo. It allows users to swipe through a deck of cards representing different individuals and match with those who meet certain criteria.
@@ -50,7 +45,7 @@ To run the app locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/poshpair.git
+   git clone https://github.com/Pranjal-sharma-SDE
 Change into the project directory:```
 
 
@@ -98,7 +93,7 @@ Here are some future steps you can consider for enhancing the PoshPair app:
 
 ##   User Profiles: Create user profiles with   information and settings.
 
-##Chat  Features: Implement a chat feature for users who have matched with each other.
+##  Chat  Features: Implement a chat feature for users who have matched with each other.
 
 ##Animations: Add animations to enhance the user experience during card swiping and transitions.
 
